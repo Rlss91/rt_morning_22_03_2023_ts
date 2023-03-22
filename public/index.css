@@ -1,0 +1,9 @@
+.red-color {
+  filter: grayscale(0) hue-rotate(0);
+}
+.blue-color {
+  filter: grayscale(0) hue-rotate(240deg);
+}
+.black-color {
+  filter: grayscale(0) grayscale(100%);
+}
