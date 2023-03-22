@@ -104,3 +104,4 @@ console.log(sortGeneric(clientArr, (a, b) => {
     return a.age < b.age;
 }));
 const tuple = ["asdfasd", 10];
+const t2 = ["asdf", "asdf"];

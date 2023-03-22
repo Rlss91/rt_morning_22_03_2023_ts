@@ -171,4 +171,7 @@ console.log(
 //     return a.age < b.age
 // }
 
+type ttt = [string, string];
+
 const tuple: [string, number] = ["asdfasd", 10];
+const t2: ttt = ["asdf", "asdf"];
