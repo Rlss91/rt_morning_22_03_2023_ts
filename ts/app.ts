@@ -175,3 +175,9 @@ type ttt = [string, string];
 
 const tuple: [string, number] = ["asdfasd", 10];
 const t2: ttt = ["asdf", "asdf"];
+
+/*
+TK 4
+  create a mini project for your local car dealer store
+  create a page to sell 3 types of car that can be customized with 3 types of colors
+*/
