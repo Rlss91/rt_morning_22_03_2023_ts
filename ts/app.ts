@@ -170,3 +170,5 @@ console.log(
 // const sortBy = (a, b)=>{
 //     return a.age < b.age
 // }
+
+const tuple: [string, number] = ["asdfasd", 10];
